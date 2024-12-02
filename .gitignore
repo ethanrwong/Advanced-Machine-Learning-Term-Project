@@ -5,3 +5,15 @@
 .ipynb_checkpoints/LR-checkpoint.ipynb
 .ipynb_checkpoints/RF-checkpoint.ipynb
 .ipynb_checkpoints/SVM-checkpoint.ipynb
+catboost_info/catboost_training.json
+catboost_info/learn/events.out.tfevents
+catboost_info/learn_error.tsv
+catboost_info/time_left.tsv
+catboost_info/tmp/cat_feature_index.395a8159-8ee0a956-f064167e-bcc05a87.tmp
+catboost_info/tmp/cat_feature_index.3c16b319-c8c0587c-cf016aa7-5e8cc594.tmp
+catboost_info/tmp/cat_feature_index.568f7d81-9ade6aff-b96efc80-f519f05b.tmp
+catboost_info/tmp/cat_feature_index.5d528870-691ff371-aec0ac99-cdaaa405.tmp
+catboost_info/tmp/cat_feature_index.665adf-46382a23-85489998-73582a17.tmp
+catboost_info/tmp/cat_feature_index.7811893a-895c3416-9446343d-64a567a7.tmp
+catboost_info/tmp/cat_feature_index.9e610225-cbd7ead6-6ffa2021-c10eb5d.tmp
+catboost_info/tmp/cat_feature_index.b1d17622-71b7ffc-6c80fe2f-1e1cd363.tmp
